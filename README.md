@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
-<hr>
  XRAY Multiport Websocket Free By NevermoreSSH 
- <hr> Support custom path / worryfree
-<h2><hr>
+<br> Support custom path / worryfree
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"width="400"></p>
@@ -50,13 +48,14 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 [ XRAY SERVICES ] <br>
 <br>
 ✅ XRAY VMESS WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80 (support custom path / worryfree)<br>
+✅ XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80 (SUPPORT CUSTOM PATH / WORRYFREE)<br>
 ✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
 ✅ XRAY TROJAN TCP XTLS 443<br>
 ✅ XRAY TROJAN TCP TLS 443<br>
 <br>
 [ OTHER SERVICES ] <br>
 <br>
+✅ SUPPORT CUSTOM PATH BY DHARAK36 XRAY-CORE <br>
 ✅ BANDWITH MONITOR <br>
 ✅ RAM MONITOR <br>
 ✅ YAML LINK <br>
