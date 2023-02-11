@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 XRAY Multiport Websocket Premium V2 By NevermoreSSH 🚀
+ XRAY Multiport Websocket Free By NevermoreSSH 
+ <hr> Support custom path / worryfree
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -12,48 +13,20 @@
 
 ## ⚠️ PLEASE README ⚠️
 <b>
-JIKA ANDA INSTALL ADS BLOCKER BY ABI DARWISH DI SCRIPT INI DAN ANDA NAK TANAM DNS UNTUK BYPASS NETFLIX<br>
+IF YOU INSTALL ADS BLOCKER BY ABI DARWISH IN THIS SCRIPT AND YOU WANT TO PLANT DNS TO BYPASS NETFLIX<br>
 <br>
-SILA BACA NOTA NI ! -> https://telegra.ph/Cara-Tanam-DNS-Untuk-Bypass-Netflix-11-30<br>
+PLEASE READ THIS NOTE ! -> https://telegra.ph/Cara-Tanam-DNS-Untuk-Bypass-Netflix-11-30<br>
 <br>
-MULTIPORT WEBSOCKET PREMIUM TELAH DITAMBAH TRICK UNTUK MERAH , BIRU , KUNING , BIRU MUDA , OREN<br>
-<br>
-SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS)<br>
+PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTINGS)<br>
 <br>
 
-![image](https://user-images.githubusercontent.com/82468311/191471897-986ebe25-5330-4997-8a44-5468b422482a.png) <br>
-
-![image](https://user-images.githubusercontent.com/82468311/191472903-b55cd39a-8909-4f7c-b3ad-013cb3c91282.png)
+1. Your SSL/TLS encryption mode is Full
+2. Enable SSL/TLS Recommender ✅
+3. Edge Certificates > Disable Always Use HTTPS (off)
 
 <br>
 </b>
 </b>
-  
-## ⏩ XRAY MULTIPORT WEBSOCKET V2 AUTOSCRIPT DETAILS ⏪
-<b>
-[ XRAY SERVICES ] <br>
-<br>
-✅ XRAY VMESS WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY TROJAN TCP XTLS 443<br>
-✅ XRAY TROJAN TCP TLS 443<br>
-✅ TROJAN GO WS 8080<br>
-<br>
-[ OTHER SERVICES ] <br>
-<br>
-✅ CHANGE PORT FOR TROJAN GO <br>
-✅ BANDWITH MONITOR <br>
-✅ RAM MONITOR <br>
-✅ WSS CONVERTER <br>
-✅ YAML LINK <br>
-✅ DNS CHANGER <br>
-✅ NETFLIX REGION CHECKER <br>
-✅ CHECK LOGIN USER <br>
-✅ CHECK CREATED CONFIG <br>
-✅ AUTOMATIC CLEAR LOG <br>
-✅ AUTOMATIC VPS REBOOT <br>
-✅ BACKUP & RESTORE <br></br>
 
 ♦️ For Debian 10 Only For First Time Installation (Update Repo) <br>
  
@@ -70,24 +43,27 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
   ```html
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/NevermoreSSH/XRAY/main/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
-  
-♦️ Daftar IP RM10 / 2 IP (Lifetime)<br>
-<br> 
-<a href="https://t.me/todfix667" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br> 
-
-</b>
-
-## ⏩ XRAY MULTIPORT WEBSOCKET V2 AUTOSCRIPT EXAMPLE ⏪
 <b>
-</b>
+
+## ⏩ XRAY MULTIPORT WEBSOCKET AUTOSCRIPT DETAILS ⏪
+<b>
+[ XRAY SERVICES ] <br>
 <br>
-
-</b>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/202878037-680b8683-a9bd-4d47-9b15-c2a8cdb29a85.png" width="400" title="Autoscript-Lite">
-</p>
-
-</b>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/202877802-d4535e15-0e48-4ac1-ad6d-455fe52d0969.png" width="400" title="Autoscript-Lite">
-</p>
+✅ XRAY VMESS WEBSOCKET TLS & NON-TLS 443/80<br>
+✅ XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80 (support custom path / worryfree)<br>
+✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
+✅ XRAY TROJAN TCP XTLS 443<br>
+✅ XRAY TROJAN TCP TLS 443<br>
+<br>
+[ OTHER SERVICES ] <br>
+<br>
+✅ BANDWITH MONITOR <br>
+✅ RAM MONITOR <br>
+✅ YAML LINK <br>
+✅ DNS CHANGER <br>
+✅ NETFLIX REGION CHECKER <br>
+✅ CHECK LOGIN USER <br>
+✅ CHECK CREATED CONFIG <br>
+✅ AUTOMATIC CLEAR LOG <br>
+✅ AUTOMATIC VPS REBOOT <br>
+✅ BACKUP & RESTORE <br></br>
